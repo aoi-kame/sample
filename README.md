@@ -1,2 +1,2 @@
-# sample
-サンプルとして作成してみる。
+### React Native CLI をインストールする
+
